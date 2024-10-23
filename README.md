@@ -44,7 +44,7 @@
     ```bash
     npm run dev
 
-2. Abre tu navegador y ve a http://localhost:3000 (o la URL que indique la consola).
+2. Abre tu navegador y ve a http://localhost:5173 (o la URL que indique la consola).
 
 3. ¡Agrega tus tareas! Escribe en el campo de texto y presiona el botón "Add Task" para añadirlas a la lista.
 
