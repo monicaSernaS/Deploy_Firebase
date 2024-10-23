@@ -1,0 +1,43 @@
+.container {
+  max-width: 500px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.title {
+  font-size: 2rem;
+}
+
+.input {
+  padding: 10px;
+  width: 80%;
+  margin-bottom: 10px;
+}
+
+.button {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.listItem {
+  padding: 10px;
+  background-color: #f9f9f9;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.deleteButton {
+  background-color: red;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
