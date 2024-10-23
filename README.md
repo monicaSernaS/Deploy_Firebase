@@ -103,7 +103,7 @@ firebase deploy
 Una vez completado, recibirás una URL donde podrás ver tu aplicación en línea.
 
 ## 🎤 Presentación
-Para una presentación más detallada sobre el proyecto, puedes consultar la presentación de Canva aquí: Presentación de Canva
+Para una presentación más detallada sobre el proyecto, puedes consultar la presentación de Canva aquí: [Presentación de Canva] (https://github.com/monicaSernaS/Deploy_Firebase/blob/main/deploy_firebase.pdf)
 
 ## 🤝 Contribuciones
 Si deseas contribuir al proyecto, no dudes en hacer un fork y enviar un pull request. ¡Todas las contribuciones son bienvenidas!
