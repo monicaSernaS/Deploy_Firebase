@@ -70,21 +70,20 @@ Este proyecto se realizó como un ejercicio sencillo para practicar el despliegu
 
 Asegúrate de que tu archivo firebase.json contenga lo siguiente:
 
-  ```bash
-  json
-  {
-    "hosting": {
+   ```bash
+   {
+      "hosting": {
       "public": "dist",
       "ignore": [
-        "firebase.json",
-        "**/.*",
-        "**/node_modules/**"
-        ],
-        "rewrites": [
-          {
-            "source": "**",
-            "destination": "/index.html"
-          }
-        ]
+         "firebase.json",
+         "**/.*",
+         "**/node_modules/**"
+         ],
+         "rewrites": [
+            {
+               "source": "**",
+               "destination": "/index.html"
+            }
+         ]
       }
     }
