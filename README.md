@@ -1,7 +1,7 @@
 # To-Do-List App 📝
 
 ¡Bienvenido a la **To Do List App**! Esta es una aplicación sencilla y práctica que te permite gestionar tus tareas diarias de forma efectiva y divertida. Ideal para quienes buscan organizar su día a día. 
-
+![Portada del PDF](https://github.com/monicaSernaS/Deploy_Firebase/raw/main/nombre_de_la_imagen.jpg)
 ## 🌟 Características
 
 - **Agregar nuevas tareas** a la lista.
