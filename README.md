@@ -72,18 +72,43 @@ Asegúrate de que tu archivo firebase.json contenga lo siguiente:
 
    ```bash
    {
-      "hosting": {
-      "public": "dist",
-      "ignore": [
+     "hosting": {
+       "public": "dist",
+       "ignore": [
          "firebase.json",
          "**/.*",
          "**/node_modules/**"
-         ],
-         "rewrites": [
-            {
-               "source": "**",
-               "destination": "/index.html"
-            }
-         ]
-      }
-    }
+       ],
+       "rewrites": [
+         {
+           "source": "**",
+           "destination": "/index.html"
+         }
+       ]
+     }
+   }
+```
+## Construir y Desplegar tu Aplicación
+
+1. Construye la aplicación:
+```bash
+npm run build
+```
+Esto creará la carpeta dist que contiene los archivos listos para producción.
+
+2. Despliega tu aplicación en Firebase:
+```bash
+firebase deploy
+```
+Una vez completado, recibirás una URL donde podrás ver tu aplicación en línea.
+
+## 🎤 Presentación
+Para una presentación más detallada sobre el proyecto, puedes consultar la presentación de Canva aquí: Presentación de Canva
+
+## 🤝 Contribuciones
+Si deseas contribuir al proyecto, no dudes en hacer un fork y enviar un pull request. ¡Todas las contribuciones son bienvenidas!
+
+## 📜 Licencia
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+
+
